@@ -19,5 +19,4 @@ ${101}`)
 
 document .getElementById('my-text').innerHTML = (`${firstName}
 ${lastName}
-${favouriteColor}
-${101}`)
+${favouriteColor}`)
